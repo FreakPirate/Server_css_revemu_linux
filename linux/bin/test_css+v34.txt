@@ -1,0 +1,3 @@
+steamclient_i486.so - use css v34 linux server
+
+-localcser in command line run server.
